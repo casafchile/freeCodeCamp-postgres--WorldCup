@@ -1,0 +1,8 @@
+./queries.sh
+chmod +x queries.sh
+chmod +x insert_data.sh
+chmod +x queries.sh
+./queries.sh
+./insert_data.sh
+./insert_data.sh
+./queries.sh
